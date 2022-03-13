@@ -6903,7 +6903,7 @@ header.main-header.header-style-three {
 /* Our Facts section three */
 .our-facts-section-three {
     position: relative;
-    padding: 120px 0 90px;
+    padding: 0 0 75px;
 }
 
 .our-facts-section-three .content .sec-title h2:before {
@@ -14796,7 +14796,7 @@ section.contact-form-section.style-three {
     top: 0;
     right: 0;
     left: 0;
-    bottom: 120px;
+    bottom: 175px;
 }
 
 .about-section-two.style-two .wrapper-box {
