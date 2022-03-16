@@ -2774,7 +2774,7 @@ img {
     opacity: 0;
 }
 
-.service-block h4 {
+.service-block h3 {
     position: relative;
     font-size: 24px;
     font-weight: 600;
@@ -3465,7 +3465,7 @@ img {
     border-radius: 50%;
 }
 
-.testimonial-block h4 {
+.testimonial-block p {
     position: relative;
     font-size: 24px;
     font-weight: 600;
