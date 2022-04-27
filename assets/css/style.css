@@ -2377,18 +2377,20 @@ img {
     margin-bottom: 25px;
 }
 
-.about-us-section .text-block .list {
+ .text-block .list {
     position: relative;
     margin-bottom: 35px;
+
 }
 
-.about-us-section .text-block .list li {
+ .text-block .list li {
     position: relative;
     padding-left: 40px;
     margin-bottom: 10px;
+    color: #4a4a4a;;
 }
 
-.about-us-section .text-block .list li:before {
+ .text-block .list li:before {
     position: absolute;
     content: '';
     top: 4px;
@@ -3977,7 +3979,7 @@ img {
     padding: 30px 0;
 }
 
-.cta-section h2 {
+.cta-section h3 {
     position: relative;
     color: #fff;
     font-size: 30px;
@@ -14368,7 +14370,7 @@ section.contact-form-section.style-three {
     left: 30px;
 }
 
-.service-details-page .feature-box h4 {
+.service-details-page .feature-box h3 {
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 10px;
